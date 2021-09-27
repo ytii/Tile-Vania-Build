@@ -6,7 +6,7 @@ public class EnemyMovement : MonoBehaviour
 {
     // config
     [SerializeField]
-    float moveSpeed = 1f;
+    float moveSpeed = 1.5f;
 
     // states
 

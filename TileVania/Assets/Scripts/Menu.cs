@@ -18,6 +18,17 @@ public class Menu : MonoBehaviour
         FindObjectOfType<GameSession>().ResetGameSession();
    }
 
+   public void optionsMenu()
+   {
+       SceneManager.LoadScene(4);
+   }
+
+   public void returnToMain()
+   {
+       // Used for Options -> Main
+       SceneManager.LoadScene(0);
+   }
+
     public void ExitGame()
     {
         Application.Quit();
