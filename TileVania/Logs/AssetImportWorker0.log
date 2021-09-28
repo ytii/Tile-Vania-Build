@@ -15,11 +15,11 @@ C:/Users/9q.h4/Documents/Github/Tile-Vania-Build/TileVania
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58719
+54530
 Successfully changed project path to: C:/Users/9q.h4/Documents/Github/Tile-Vania-Build/TileVania
 C:/Users/9q.h4/Documents/Github/Tile-Vania-Build/TileVania
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 100.27 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 99.48 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.7f1 (d91830b65d9b)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
@@ -35,389 +35,174 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56940
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56328
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002468 seconds.
+Registered in 0.002139 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 101.14 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 101.10 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.501 seconds
+- Completed reload, in  1.437 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003308 seconds.
+Registered in 0.003339 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 100.40 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 87.88 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.185 seconds
+- Completed reload, in  1.049 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3561 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.8 MB.
-System memory in use after: 134.8 MB.
+System memory in use before: 134.9 MB.
+System memory in use after: 135.0 MB.
 
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 4016.
-Total: 2.682200 ms (FindLiveObjects: 0.265300 ms CreateObjectMapping: 0.272900 ms MarkObjects: 2.036000 ms  DeleteObjects: 0.107000 ms)
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 4017.
+Total: 2.200600 ms (FindLiveObjects: 0.248600 ms CreateObjectMapping: 0.171600 ms MarkObjects: 1.678600 ms  DeleteObjects: 0.101000 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts/ScenePersist.cs
-  artifactKey: Guid(76f6dc832a297a243bfa2b2707cf9c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/ScenePersist.cs using Guid(76f6dc832a297a243bfa2b2707cf9c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f27be95d1c99356ed3bccd00531911') in 0.088441 seconds 
+  path: Assets/Levels/Settings.unity
+  artifactKey: Guid(fa3a8d986747c474796eb19d8f6ac17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Settings.unity using Guid(fa3a8d986747c474796eb19d8f6ac17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '464e644293acfecc4bb84580827d0879') in 0.012259 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 42.063774 seconds.
-  path: Assets/Scripts/Main.cs
-  artifactKey: Guid(3236c51514f13ac439e90017ae9966d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Main.cs using Guid(3236c51514f13ac439e90017ae9966d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8121f3e81ebe53fbdf374226c5a42b3e') in 0.001497 seconds 
+  Time since last request: 0.000272 seconds.
+  path: Assets/Levels/Main Menu.unity
+  artifactKey: Guid(86cf2f482a24012418f38bad833155da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Main Menu.unity using Guid(86cf2f482a24012418f38bad833155da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2010cc62294296fee558fd98a97fdb26') in 0.001691 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.84 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 64.3 MB.
+System memory in use after: 64.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4017.
+Total: 3.011100 ms (FindLiveObjects: 0.274100 ms CreateObjectMapping: 0.223200 ms MarkObjects: 2.407900 ms  DeleteObjects: 0.104800 ms)
+
 ========================================================================
 Received Import Request.
-  Time since last request: 3.813473 seconds.
-  path: Assets/Scripts/Menu.cs
-  artifactKey: Guid(aeced9dd28a421e4db5e52c96c4c578d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Menu.cs using Guid(aeced9dd28a421e4db5e52c96c4c578d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0aa03291c283eae9519f2c19133151a1') in 0.001519 seconds 
+  Time since last request: 88.193886 seconds.
+  path: Assets/Sprites & Tiles/Sprites/LevelExit.png
+  artifactKey: Guid(d0da5363a2e0feb40a2b352ce4ca25c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites & Tiles/Sprites/LevelExit.png using Guid(d0da5363a2e0feb40a2b352ce4ca25c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6a1815a1d3e420f355db6fa117a939') in 0.135553 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002925 seconds.
+Registered in 0.002945 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.962 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3554 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.3 MB.
+System memory in use after: 140.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4042.
+Total: 2.672100 ms (FindLiveObjects: 0.296700 ms CreateObjectMapping: 0.198900 ms MarkObjects: 2.079400 ms  DeleteObjects: 0.095700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.553180 seconds.
+  path: Assets/Levels/Level 2.unity
+  artifactKey: Guid(e248b601ee91ce14b8a48626ff71c302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Level 2.unity using Guid(e248b601ee91ce14b8a48626ff71c302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6006ae54a5f3979fd24e006820c11b4') in 0.012682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.762863 seconds.
+  path: Assets/Levels/Level 3.unity
+  artifactKey: Guid(f78a7021fd5ce8a4cbaf03ad5d4de50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Level 3.unity using Guid(f78a7021fd5ce8a4cbaf03ad5d4de50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7666b44478c5a796ef214d83c6f1dfd1') in 0.017958 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.609564 seconds.
+  path: Assets/Levels/Level 31.unity
+  artifactKey: Guid(f78a7021fd5ce8a4cbaf03ad5d4de50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Level 31.unity using Guid(f78a7021fd5ce8a4cbaf03ad5d4de50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ac8c3c17456bb00cda5d3489ff4767b') in 0.001808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.713822 seconds.
+  path: Assets/Levels/Level 3.unity
+  artifactKey: Guid(e248b601ee91ce14b8a48626ff71c302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Level 3.unity using Guid(e248b601ee91ce14b8a48626ff71c302) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60550cd3a6d40a3e55f4199acd7b8e9a') in 0.001697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.417664 seconds.
+  path: Assets/Levels/Level 2.unity
+  artifactKey: Guid(f78a7021fd5ce8a4cbaf03ad5d4de50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Level 2.unity using Guid(f78a7021fd5ce8a4cbaf03ad5d4de50a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34597686b830134cac986f6efa60c00c') in 0.001994 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003028 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.879 seconds
+Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.108 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3554 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.6 MB.
-System memory in use after: 134.7 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4021.
-Total: 3.139100 ms (FindLiveObjects: 0.294900 ms CreateObjectMapping: 0.228000 ms MarkObjects: 2.528300 ms  DeleteObjects: 0.086700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002926 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.913 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.16 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3554 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.6 MB.
-System memory in use after: 134.7 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4025.
-Total: 2.627100 ms (FindLiveObjects: 0.315100 ms CreateObjectMapping: 0.224700 ms MarkObjects: 1.995400 ms  DeleteObjects: 0.090800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 382.874145 seconds.
-  path: Assets/Scripts/Main.cs
-  artifactKey: Guid(3236c51514f13ac439e90017ae9966d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Main.cs using Guid(3236c51514f13ac439e90017ae9966d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13af8166127dcd7e0f7e1ea39520f552') in 0.005420 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003239 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.885 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3554 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.6 MB.
-System memory in use after: 134.8 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4029.
-Total: 2.311100 ms (FindLiveObjects: 0.247300 ms CreateObjectMapping: 0.180700 ms MarkObjects: 1.790400 ms  DeleteObjects: 0.092000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 273.618015 seconds.
-  path: Assets/Scripts/Main.cs
-  artifactKey: Guid(3236c51514f13ac439e90017ae9966d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Main.cs using Guid(3236c51514f13ac439e90017ae9966d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '069fdc5c0954d8ec37f7d91cf2a36ab6') in 0.004780 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 22.017989 seconds.
-  path: Assets/Scripts/Main.cs
-  artifactKey: Guid(3236c51514f13ac439e90017ae9966d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Main.cs using Guid(3236c51514f13ac439e90017ae9966d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f7e1bad66ebfcc5889883a44c7a2727') in 0.001638 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002873 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.908 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.11 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3554 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.7 MB.
-System memory in use after: 134.8 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4033.
-Total: 2.579300 ms (FindLiveObjects: 0.260100 ms CreateObjectMapping: 0.184400 ms MarkObjects: 2.043800 ms  DeleteObjects: 0.089700 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 143.769058 seconds.
-  path: Assets/Scripts/Main.cs
-  artifactKey: Guid(3236c51514f13ac439e90017ae9966d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Main.cs using Guid(3236c51514f13ac439e90017ae9966d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '073962362ba888f017bde24fe4caca45') in 0.005490 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003033 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.864 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3554 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.7 MB.
-System memory in use after: 134.8 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4037.
-Total: 2.191200 ms (FindLiveObjects: 0.255400 ms CreateObjectMapping: 0.171200 ms MarkObjects: 1.680400 ms  DeleteObjects: 0.083400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003116 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.913 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 134.7 MB.
-System memory in use after: 134.8 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4040.
-Total: 3.815300 ms (FindLiveObjects: 0.496700 ms CreateObjectMapping: 0.355900 ms MarkObjects: 2.847800 ms  DeleteObjects: 0.113400 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 650.491920 seconds.
-  path: Assets/Sprites & Tiles/Sprites/Jump.png
-  artifactKey: Guid(0bd20a456ba2a9a4d887af7dc634576f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites & Tiles/Sprites/Jump.png using Guid(0bd20a456ba2a9a4d887af7dc634576f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5474ace8a6bfec532bb0a44232de4ae0') in 0.212500 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/Sprites & Tiles/Sprites/movement.png
-  artifactKey: Guid(409b11b8df2c6034c8e73d71d1648002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites & Tiles/Sprites/movement.png using Guid(409b11b8df2c6034c8e73d71d1648002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f06a38c52ec93a5f40b46d54cc52981') in 0.013406 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002963 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.864 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3555 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 140.5 MB.
-System memory in use after: 140.6 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4080.
-Total: 2.277600 ms (FindLiveObjects: 0.269600 ms CreateObjectMapping: 0.194500 ms MarkObjects: 1.730100 ms  DeleteObjects: 0.082900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002942 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.846 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 140.4 MB.
 System memory in use after: 140.5 MB.
 
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4084.
-Total: 2.244900 ms (FindLiveObjects: 0.263700 ms CreateObjectMapping: 0.173300 ms MarkObjects: 1.725900 ms  DeleteObjects: 0.081300 ms)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4046.
+Total: 2.342100 ms (FindLiveObjects: 0.261700 ms CreateObjectMapping: 0.159700 ms MarkObjects: 1.828500 ms  DeleteObjects: 0.091500 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 310.063682 seconds.
-  path: Assets/Sprites & Tiles/Sprites/Jump.png
-  artifactKey: Guid(0bd20a456ba2a9a4d887af7dc634576f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites & Tiles/Sprites/Jump.png using Guid(0bd20a456ba2a9a4d887af7dc634576f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be99452b764554b9d6c55f11650a44f0') in 0.043157 seconds 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.3 MB.
-System memory in use after: 70.4 MB.
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4086.
-Total: 2.782100 ms (FindLiveObjects: 0.236400 ms CreateObjectMapping: 0.152300 ms MarkObjects: 2.311500 ms  DeleteObjects: 0.081300 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 145.392455 seconds.
-  path: Assets/Sprites & Tiles/Sprites/replay.png
-  artifactKey: Guid(829c0e3d43669f44486f1a6aeb83cb96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites & Tiles/Sprites/replay.png using Guid(829c0e3d43669f44486f1a6aeb83cb96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1812eabf4f6982885275c2a392ec29d1') in 0.014066 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.842111 seconds.
-  path: Assets/Sprites & Tiles/Sprites/SPA-Coins.png
-  artifactKey: Guid(6ece5e5fc026bd94cba1bff5cb941400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites & Tiles/Sprites/SPA-Coins.png using Guid(6ece5e5fc026bd94cba1bff5cb941400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d809d1da34ea79f303d8db09d46ae61') in 0.029014 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.698340 seconds.
-  path: Assets/Sprites & Tiles/Sprites/SPA-Enemy-Right.png
-  artifactKey: Guid(33d0bd86ec418d3489393a229c9ee20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites & Tiles/Sprites/SPA-Enemy-Right.png using Guid(33d0bd86ec418d3489393a229c9ee20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09d0cfc947ad8a4c598c9bf4bf57dd94') in 0.019260 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.496391 seconds.
-  path: Assets/Sprites & Tiles/Sprites/SPA_Ladder.png
-  artifactKey: Guid(cc4603ea4de5819429108844c9b84a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites & Tiles/Sprites/SPA_Ladder.png using Guid(cc4603ea4de5819429108844c9b84a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '225fd650f779bb3a24977ab898d7d556') in 0.017597 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.594462 seconds.
-  path: Assets/Sprites & Tiles/Sprites/Spikes.png
-  artifactKey: Guid(11c1c51f663ac754c901bad7188d43af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites & Tiles/Sprites/Spikes.png using Guid(11c1c51f663ac754c901bad7188d43af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b308ac31c16cefae5a54bbba3de0ee1') in 0.010648 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 8.107839 seconds.
-  path: Assets/Sprites & Tiles/Sprites/start.png
-  artifactKey: Guid(eee40587077200a4bb1bf51cbadecd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites & Tiles/Sprites/start.png using Guid(eee40587077200a4bb1bf51cbadecd98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eedb54880a30c273884956f077825cc6') in 0.011544 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.261061 seconds.
-  path: Assets/Sprites & Tiles/Sprites/exit.png
-  artifactKey: Guid(d5423bc863b209f4aad6d288d2cdfb7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sprites & Tiles/Sprites/exit.png using Guid(d5423bc863b209f4aad6d288d2cdfb7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044f31ed01895cc9d82805183daf504d') in 0.016785 seconds 
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 15 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 70.5 MB.
-System memory in use after: 70.6 MB.
-
-Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4111.
-Total: 3.119200 ms (FindLiveObjects: 0.250300 ms CreateObjectMapping: 0.160000 ms MarkObjects: 2.627600 ms  DeleteObjects: 0.080600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 195.367219 seconds.
-  path: Assets/Scripts/GameSession.cs
-  artifactKey: Guid(c143c931cc134824fac4afdbe9c97190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameSession.cs using Guid(c143c931cc134824fac4afdbe9c97190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0a7d7017193f8df8d17bb57d53ce0f0') in 0.005190 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003040 seconds.
+Registered in 0.003008 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.908 seconds
+- Completed reload, in  0.877 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3560 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
+Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.4 MB.
+System memory in use after: 140.5 MB.
 
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4226.
-Total: 2.878600 ms (FindLiveObjects: 0.389300 ms CreateObjectMapping: 0.212500 ms MarkObjects: 2.176700 ms  DeleteObjects: 0.098600 ms)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4050.
+Total: 2.230800 ms (FindLiveObjects: 0.261800 ms CreateObjectMapping: 0.159100 ms MarkObjects: 1.719100 ms  DeleteObjects: 0.090000 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 246.861345 seconds.
-  path: Assets/Scripts/GameSession.cs
-  artifactKey: Guid(c143c931cc134824fac4afdbe9c97190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameSession.cs using Guid(c143c931cc134824fac4afdbe9c97190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ba595a9a26afb53c51f8aabc495b53') in 0.005153 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003146 seconds.
+Registered in 0.003635 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
@@ -426,598 +211,61 @@ Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.956 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.5 MB.
-System memory in use after: 144.6 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4230.
-Total: 2.747700 ms (FindLiveObjects: 0.289300 ms CreateObjectMapping: 0.186900 ms MarkObjects: 2.172700 ms  DeleteObjects: 0.097900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 21.700950 seconds.
-  path: Assets/Scripts/GameSession.cs
-  artifactKey: Guid(c143c931cc134824fac4afdbe9c97190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameSession.cs using Guid(c143c931cc134824fac4afdbe9c97190) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d72eb81a6e0dfbbc3e1fb0337eef24') in 0.005409 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003064 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.99 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.896 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.5 MB.
-System memory in use after: 144.6 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4234.
-Total: 3.058600 ms (FindLiveObjects: 0.320200 ms CreateObjectMapping: 0.226700 ms MarkObjects: 2.375400 ms  DeleteObjects: 0.135400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002996 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.895 seconds
+- Completed reload, in  0.982 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.6 MB.
-System memory in use after: 144.7 MB.
+System memory in use before: 140.4 MB.
+System memory in use after: 140.5 MB.
 
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4238.
-Total: 3.381700 ms (FindLiveObjects: 0.303800 ms CreateObjectMapping: 0.213100 ms MarkObjects: 2.766600 ms  DeleteObjects: 0.097200 ms)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4054.
+Total: 2.309100 ms (FindLiveObjects: 0.265000 ms CreateObjectMapping: 0.167000 ms MarkObjects: 1.783800 ms  DeleteObjects: 0.092500 ms)
 
-========================================================================
-Received Import Request.
-  Time since last request: 213.471439 seconds.
-  path: Assets/Scripts/EnemyMovement.cs
-  artifactKey: Guid(5eb576fb6c7738c4e808024b17feaa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/EnemyMovement.cs using Guid(5eb576fb6c7738c4e808024b17feaa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f4cb532de1b95e56bae8e877da3c93') in 0.009251 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002997 seconds.
+Registered in 0.002936 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.868 seconds
+- Completed reload, in  1.003 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.6 MB.
-System memory in use after: 144.7 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4242.
-Total: 2.356800 ms (FindLiveObjects: 0.277900 ms CreateObjectMapping: 0.180800 ms MarkObjects: 1.814300 ms  DeleteObjects: 0.083000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003020 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.867 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.6 MB.
-System memory in use after: 144.7 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4246.
-Total: 2.325700 ms (FindLiveObjects: 0.265300 ms CreateObjectMapping: 0.206700 ms MarkObjects: 1.771400 ms  DeleteObjects: 0.081500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003671 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.875 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.6 MB.
-System memory in use after: 144.7 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4250.
-Total: 2.532600 ms (FindLiveObjects: 0.295700 ms CreateObjectMapping: 0.200500 ms MarkObjects: 1.945600 ms  DeleteObjects: 0.090100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002999 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.875 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.6 MB.
-System memory in use after: 144.7 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4254.
-Total: 2.319500 ms (FindLiveObjects: 0.276100 ms CreateObjectMapping: 0.179900 ms MarkObjects: 1.781100 ms  DeleteObjects: 0.081600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003035 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.883 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.6 MB.
-System memory in use after: 144.7 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4258.
-Total: 2.356500 ms (FindLiveObjects: 0.280800 ms CreateObjectMapping: 0.173600 ms MarkObjects: 1.815800 ms  DeleteObjects: 0.085700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002965 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.869 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.6 MB.
-System memory in use after: 144.7 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4262.
-Total: 2.394900 ms (FindLiveObjects: 0.280500 ms CreateObjectMapping: 0.190900 ms MarkObjects: 1.833400 ms  DeleteObjects: 0.089200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003691 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.983 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.6 MB.
-System memory in use after: 144.7 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4266.
-Total: 2.786400 ms (FindLiveObjects: 0.275900 ms CreateObjectMapping: 0.176100 ms MarkObjects: 2.240900 ms  DeleteObjects: 0.092700 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 758.246383 seconds.
-  path: Assets/Scripts/Settings.cs
-  artifactKey: Guid(7c40a72623ec7564eae6c6c95d529c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Settings.cs using Guid(7c40a72623ec7564eae6c6c95d529c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b658cbbb42968a1b06ba0f197824768e') in 0.007412 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002994 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.800 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3554 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.7 MB.
-System memory in use after: 144.8 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4271.
-Total: 2.806000 ms (FindLiveObjects: 0.325400 ms CreateObjectMapping: 0.219400 ms MarkObjects: 2.169300 ms  DeleteObjects: 0.091000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 71.390544 seconds.
-  path: Assets/Levels/Level 1.unity
-  artifactKey: Guid(1957600882f3733448ccc84744fd707a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Levels/Level 1.unity using Guid(1957600882f3733448ccc84744fd707a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f2b9105bc8d8edf4259f59f7c171905') in 0.019053 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.964090 seconds.
-  path: Assets/Levels/Main Menu.unity
-  artifactKey: Guid(86cf2f482a24012418f38bad833155da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Levels/Main Menu.unity using Guid(86cf2f482a24012418f38bad833155da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75cf7afb43152e01605ff43c7d1edf04') in 0.001946 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.558124 seconds.
-  path: Assets/Levels/Main Menu 1.unity
-  artifactKey: Guid(fa3a8d986747c474796eb19d8f6ac17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Levels/Main Menu 1.unity using Guid(fa3a8d986747c474796eb19d8f6ac17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a77e017cd931eca54ef5f197f5a510a') in 0.001988 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 7.061838 seconds.
-  path: Assets/Levels/Settings.unity
-  artifactKey: Guid(fa3a8d986747c474796eb19d8f6ac17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Levels/Settings.unity using Guid(fa3a8d986747c474796eb19d8f6ac17e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd07975d741f2c16237726836d34b97') in 0.001695 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.357711 seconds.
-  path: Assets/Levels/Success.unity
-  artifactKey: Guid(eb2d1335c0ba8134fa93547853afb954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Levels/Success.unity using Guid(eb2d1335c0ba8134fa93547853afb954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fefd487f6849e039d8045eace70a4fa1') in 0.001996 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002957 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.912 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3554 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.7 MB.
-System memory in use after: 144.8 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4275.
-Total: 2.606100 ms (FindLiveObjects: 0.299200 ms CreateObjectMapping: 0.205900 ms MarkObjects: 2.010300 ms  DeleteObjects: 0.089800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002974 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.877 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3554 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4279.
-Total: 2.406400 ms (FindLiveObjects: 0.284800 ms CreateObjectMapping: 0.185100 ms MarkObjects: 1.847300 ms  DeleteObjects: 0.088300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002944 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 140.5 MB.
+System memory in use after: 140.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4058.
+Total: 2.626200 ms (FindLiveObjects: 0.308100 ms CreateObjectMapping: 0.204700 ms MarkObjects: 2.014800 ms  DeleteObjects: 0.097500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003019 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
 - Completed reload, in  0.995 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3554 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4283.
-Total: 2.665400 ms (FindLiveObjects: 0.289800 ms CreateObjectMapping: 0.190600 ms MarkObjects: 2.085300 ms  DeleteObjects: 0.098900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 583.081105 seconds.
-  path: Assets/Scripts/Settings.cs
-  artifactKey: Guid(7c40a72623ec7564eae6c6c95d529c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Settings.cs using Guid(7c40a72623ec7564eae6c6c95d529c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5eac4d60f48490461650440a39f9b03') in 0.007472 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002944 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.969 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 4286.
-Total: 2.312800 ms (FindLiveObjects: 0.269900 ms CreateObjectMapping: 0.168100 ms MarkObjects: 1.785400 ms  DeleteObjects: 0.088500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003231 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.913 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4290.
-Total: 2.913500 ms (FindLiveObjects: 0.291900 ms CreateObjectMapping: 0.255700 ms MarkObjects: 2.274100 ms  DeleteObjects: 0.090900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002913 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.881 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4294.
-Total: 2.320500 ms (FindLiveObjects: 0.273200 ms CreateObjectMapping: 0.188200 ms MarkObjects: 1.774700 ms  DeleteObjects: 0.083600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002944 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.868 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4298.
-Total: 2.627800 ms (FindLiveObjects: 0.293900 ms CreateObjectMapping: 0.190400 ms MarkObjects: 2.053100 ms  DeleteObjects: 0.089600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002920 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.008 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4302.
-Total: 2.400100 ms (FindLiveObjects: 0.277100 ms CreateObjectMapping: 0.193300 ms MarkObjects: 1.847900 ms  DeleteObjects: 0.081100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003228 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.71 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.991 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4306.
-Total: 2.874200 ms (FindLiveObjects: 0.286900 ms CreateObjectMapping: 0.177300 ms MarkObjects: 2.293600 ms  DeleteObjects: 0.115300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002946 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.878 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4310.
-Total: 2.300300 ms (FindLiveObjects: 0.274300 ms CreateObjectMapping: 0.169500 ms MarkObjects: 1.768200 ms  DeleteObjects: 0.087100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002981 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.866 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4314.
-Total: 2.385600 ms (FindLiveObjects: 0.283500 ms CreateObjectMapping: 0.171000 ms MarkObjects: 1.842300 ms  DeleteObjects: 0.088100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002989 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.876 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
-
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4318.
-Total: 2.578300 ms (FindLiveObjects: 0.328100 ms CreateObjectMapping: 0.227200 ms MarkObjects: 1.936300 ms  DeleteObjects: 0.086000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002954 seconds.
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
-Symbol file LoadedFromMemory doesn't match image C:\Users\9q.h4\Documents\Github\Tile-Vania-Build\TileVania\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.891 seconds
-Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3553 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 144.8 MB.
-System memory in use after: 144.9 MB.
+System memory in use before: 140.5 MB.
+System memory in use after: 140.6 MB.
 
-Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4322.
-Total: 2.459900 ms (FindLiveObjects: 0.277700 ms CreateObjectMapping: 0.168200 ms MarkObjects: 1.893700 ms  DeleteObjects: 0.119500 ms)
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 4062.
+Total: 2.581100 ms (FindLiveObjects: 0.279500 ms CreateObjectMapping: 0.233900 ms MarkObjects: 1.971000 ms  DeleteObjects: 0.095700 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
